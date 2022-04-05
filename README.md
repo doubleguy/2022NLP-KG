@@ -8,7 +8,7 @@
 - [x] 3.28(KG)    SCHEMA, IDENTITY, CONTEXT
 - [x] 3.30(NLP)  情感分析
 - [x] 3.30(KG)    DEDUCTIVE KNOWLEDGE
-- [ ] 4.4(NLP)    信息检索
+- [x] 4.4(NLP)    信息检索
 - [x] 4.4(KG)      INDUCTIVE KNOWLEDGE
 - [ ] 4.6(NLP)    问答系统
 - [ ] 4.6(KG)      CREATION AND ENRICHMENT
